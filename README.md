@@ -34,7 +34,7 @@
 * [choropleth map](https://github.com/wybin4/quality-of-life-index)
 ### 4. [relational database](https://github.com/wybin4/db-projects)
 
-Курсы node.js
+Курсы по node.js
 ---------------------------
 ### udemy
 * [weather-cli](https://github.com/wybin4/weather-cli)
