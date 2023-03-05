@@ -22,3 +22,4 @@
 * [scatterplot graph 2](https://github.com/wybin4/covid-19-stats)
 * [heat map](https://github.com/wybin4/temperature-map)
 * [choropleth map](https://github.com/wybin4/quality-of-life-index)
+### 4. [relational database](https://github.com/wybin4/db-projects)
