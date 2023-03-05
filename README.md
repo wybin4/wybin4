@@ -7,11 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wybin4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Курсы
+Курсы freecodecamp
 ---------------------------
-
-## freecodecamp
-
 ### 1. [javascript algorithms and data structures](https://github.com/wybin4/js-tasks)
 ### 2. front end development libraries
   * [random quote machine](https://github.com/wybin4/genshin-random-quotes)
@@ -25,10 +22,13 @@
 * [scatterplot graph 2](https://github.com/wybin4/covid-19-stats)
 * [heat map](https://github.com/wybin4/temperature-map)
 * [choropleth map](https://github.com/wybin4/quality-of-life-index)
-
-## udemy
-
 ### 4. [relational database](https://github.com/wybin4/db-projects)
+
+Курсы node.js
+---------------------------
+### udemy
+* [weather-cli](https://github.com/wybin4/weather-cli)
+* [auth-users-api](https://github.com/wybin4/users-api)
 
 ВУЗовские задачи
 ---------------------------
