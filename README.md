@@ -9,10 +9,10 @@
 
 Курсы freecodecamp
 ---------------------------
-1. [javaScript algorithms and data structures](https://github.com/wybin4/js-tasks)
-2. [front end development libraries](https://www.freecodecamp.org/certification/fcc0642640a-ba0c-429a-b1d4-968c8edda04f/front-end-development-libraries)
-* random quote machine
-* markdown previewer
-* drum machine
-* js calculator
-* 25 + 5 clock
+1. [javascript algorithms and data structures](https://github.com/wybin4/js-tasks)
+2. front end development libraries
+  * [random quote machine](https://github.com/wybin4/genshin-random-quotes)
+  * [markdown previewer](https://github.com/wybin4/markdown-previewer)
+  * [drum machine](https://github.com/wybin4/drum-kit)
+  * js calculator
+  * [25 + 5 clock](https://github.com/wybin4/pomodoro)
