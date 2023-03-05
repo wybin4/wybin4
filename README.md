@@ -26,9 +26,9 @@
 
 ВУЗовские задачи
 ---------------------------
-### 1. [C++](https://github.com/wybin4/uni-cpp-tasks)
-### 2. [Индивидуальная работа, 1 курс 2 семестр, Python](https://github.com/wybin4/ql-dql)
-### 3. [Практика, 1 курс 2 семестр, C++](https://github.com/wybin4/a-star-pathfinding)
-### 4. [Индивидуальная работа, 2 курс 1 семестр, Java](https://github.com/wybin4/bus-route-accounting-system)
-### 5. [Автоматизация бизнес-школы, 2 курс 1 семестр, PHP](https://github.com/wybin4/business-school)
-### 6. [Теория систем, 2 курс 2 семестр, Python](https://github.com/wybin4/systems-theory)
+* [C++](https://github.com/wybin4/uni-cpp-tasks)
+* [Индивидуальная работа, 1 курс 2 семестр, Python](https://github.com/wybin4/ql-dql)
+* [Практика, 1 курс 2 семестр, C++](https://github.com/wybin4/a-star-pathfinding)
+* [Индивидуальная работа, 2 курс 1 семестр, Java](https://github.com/wybin4/bus-route-accounting-system)
+* [Автоматизация бизнес-школы, 2 курс 1 семестр, PHP](https://github.com/wybin4/business-school)
+* [Теория систем, 2 курс 2 семестр, Python](https://github.com/wybin4/systems-theory)
