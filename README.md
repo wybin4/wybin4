@@ -7,6 +7,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wybin4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+ВУЗовские задачи
+---------------------------
+* [C++](https://github.com/wybin4/uni-cpp-tasks)
+* [Индивидуальная работа, 1 курс 2 семестр, Python](https://github.com/wybin4/ql-dql)
+* [Практика, 1 курс 2 семестр, C++](https://github.com/wybin4/a-star-pathfinding)
+* [Индивидуальная работа, 2 курс 1 семестр, Java](https://github.com/wybin4/bus-route-accounting-system)
+* [Автоматизация бизнес-школы, 2 курс 1 семестр, PHP](https://github.com/wybin4/business-school)
+* [Теория систем, 2 курс 2 семестр, Python](https://github.com/wybin4/systems-theory)
+
 Курсы freecodecamp
 ---------------------------
 ### 1. [javascript algorithms and data structures](https://github.com/wybin4/js-tasks)
@@ -29,15 +38,6 @@
 ### udemy
 * [weather-cli](https://github.com/wybin4/weather-cli)
 * [auth-users-api](https://github.com/wybin4/users-api)
-
-ВУЗовские задачи
----------------------------
-* [C++](https://github.com/wybin4/uni-cpp-tasks)
-* [Индивидуальная работа, 1 курс 2 семестр, Python](https://github.com/wybin4/ql-dql)
-* [Практика, 1 курс 2 семестр, C++](https://github.com/wybin4/a-star-pathfinding)
-* [Индивидуальная работа, 2 курс 1 семестр, Java](https://github.com/wybin4/bus-route-accounting-system)
-* [Автоматизация бизнес-школы, 2 курс 1 семестр, PHP](https://github.com/wybin4/business-school)
-* [Теория систем, 2 курс 2 семестр, Python](https://github.com/wybin4/systems-theory)
 
 Игры, С++
 ---------------------------
