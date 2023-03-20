@@ -21,10 +21,10 @@
 ---------------------------
 ### 1. [Javascript Algorithms and Data Structures](https://github.com/wybin4/js-tasks)
 ### 2. Front End Development Libraries
-  * [random quote machine](https://github.com/wybin4/genshin-random-quotes)
-  * [markdown previewer](https://github.com/wybin4/markdown-previewer)
-  * [drum machine](https://github.com/wybin4/drum-kit)
-  * [js calculator](https://codepen.io/wybin4/pen/wvmYQyQ)
+  * [Random quote machine](https://github.com/wybin4/genshin-random-quotes)
+  * [Markdown previewer](https://github.com/wybin4/markdown-previewer)
+  * [Drum machine](https://github.com/wybin4/drum-kit)
+  * [JS calculator](https://codepen.io/wybin4/pen/wvmYQyQ)
   * [25 + 5 clock](https://github.com/wybin4/pomodoro)
 ### 3. Data Visualization
 * [Bar chart](https://github.com/wybin4/covid-19-stats)
