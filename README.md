@@ -13,7 +13,7 @@
 * [Сравнение Q-обучения и глубокого Q-обучения, Python](https://github.com/wybin4/ql-dql)
 * [Алгоритм A*, C++](https://github.com/wybin4/a-star-pathfinding)
 * [Система учёта автобусных маршрутов, Java](https://github.com/wybin4/bus-route-accounting-system)
-* [Автоматизация бизнес-школы, 2 курс 1 семестр, PHP](https://github.com/wybin4/business-school)
+* [Автоматизация бизнес-школы, PHP](https://github.com/wybin4/business-school)
 * [Методы ранжирования экспертных оценок и автоматической классификации, Python](https://github.com/wybin4/systems-theory)
 * [Сервис поиска работы и подбора персонала, ориентированный на студентов, Laravel](https://github.com/wybin4/job-service)
 
