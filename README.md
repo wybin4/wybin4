@@ -2,7 +2,7 @@
 
 - 👋 Учусь на третьем курсе РГЭУ(РИНХ) на программной инженерии
 - ✉️ Почта <a href="mailto:eckyl@bk.ru">eckyl@bk.ru</a>
-- 
+- 😀 <a href="https://telegram.me/aiwokow">Телеграм</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wybin4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
