@@ -36,6 +36,7 @@
 
 Курсы
 ---------------------------
+### Docker + Ansible - с нуля, деплой и управление Swarm
 ### Микросервисы на NestJs
 * [purple](https://github.com/wybin4/purple)
 ### NextJs
