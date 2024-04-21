@@ -12,7 +12,7 @@
 * [Мобильное приложение собственника жилья, Kotlin для Android](https://github.com/wybin4/myhome-mobile)
 ### 3 курс, 1 семестр
 
-Пояснительная записка в (PDF)[https://docs.google.com/document/d/1rX0DurMvy34NIT26jFw8pwDwhytAdzOa/edit?usp=sharing&ouid=108507379057349599436&rtpof=true&sd=true]
+Пояснительная записка в [PDF](https://docs.google.com/document/d/1rX0DurMvy34NIT26jFw8pwDwhytAdzOa/edit?usp=sharing&ouid=108507379057349599436&rtpof=true&sd=true)
 
 * [Автоматизация взаимодействия собственников и управляющих компаний, фронтенд, NextJS](https://github.com/wybin4/myhome-frontend)
 * [Автоматизация взаимодействия собственников и управляющих компаний, развертывание, Ansible, Docker Swarm](https://github.com/wybin4/myhome-ansible)
