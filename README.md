@@ -11,6 +11,8 @@
 ### 3 курс, 2 семестр
 Пояснительная записка в PDF
 
+[Видео](https://youtu.be/MxwgVbCVKBM?si=CIdszcrHXb_Q4EzX) с демонстрацией работы
+
 
 Исходный код:
 * [Мобильное приложение собственника жилья, Kotlin для Android](https://github.com/wybin4/myhome-mobile)
