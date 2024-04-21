@@ -11,12 +11,16 @@
 ### 3 курс, 2 семестр
 Пояснительная записка в PDF
 
+
 Исходный код:
 * [Мобильное приложение собственника жилья, Kotlin для Android](https://github.com/wybin4/myhome-mobile)
 ### 3 курс, 1 семестр
 Пояснительная записка в [PDF](https://drive.google.com/file/d/14asqR2Qp9Nc1yUXYMhvSUg1pUwGQY7tT/view?usp=sharing)
+
 Видео с демонстрацией работы [фронтенда](https://www.youtube.com/watch?v=PFo4jNCRiOU)
+
 Видео с демонстрацией [развертывания](https://youtu.be/eO4ZHufRHHo?si=SyrcYA6ZP6BqC1FG)
+
 
 Исходный код:
 * [Автоматизация взаимодействия собственников и управляющих компаний, фронтенд, NextJS](https://github.com/wybin4/myhome-frontend)
@@ -24,6 +28,7 @@
 * [Автоматизация взаимодействия собственников и управляющих компаний, бэкенд, NestJS](https://github.com/wybin4/myhome)
 ### 2 курс, 2 семестр
 [Видео](https://youtu.be/13wgWBVtEFA?si=_5R_E1Sk-88B4DxJ) с демонстрацией работы
+
 
 Исходный код:
 * [Сервис поиска работы и подбора персонала, ориентированный на студентов, Laravel](https://github.com/wybin4/job-service)
