@@ -9,7 +9,7 @@
 Курсовые работы
 ---------------------------
 ### 3 курс, 2 семестр
-Пояснительная записка в PDF
+Пояснительная записка в [PDF](https://drive.google.com/file/d/1MnQTcXBo8PKTTzNf4_BBji0rsf_h5Mse/view?usp=sharing)
 
 [Видео](https://youtu.be/MxwgVbCVKBM?si=CIdszcrHXb_Q4EzX) с демонстрацией работы
 
