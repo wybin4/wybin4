@@ -1,107 +1,122 @@
 # Обо мне
 
-- 👋 Учусь на первом курсе магистратуры РГЭУ(РИНХ) на программной инженерии
-- ✉️ Почта <a href="mailto:eckyl@bk.ru">eckyl@bk.ru</a>
-- 😀 <a href="https://telegram.me/aiwokow">Телеграм</a>
+<details>
+<summary>👨‍🎓 Основная информация</summary>
+
+- Учусь на первом курсе магистратуры РГЭУ(РИНХ) на программной инженерии
+- ✉️ Почта: [eckyl@bk.ru](mailto:eckyl@bk.ru)
+- 😀 Телеграм: [@aiwokow](https://telegram.me/aiwokow)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wybin4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
-Дипломная работа, бакалавриат
----------------------------
-### 4 курс, 2 семестр
+<details>
+<summary>🎓 Дипломная работа (бакалавриат, 4 курс)</summary>
 
-Пояснительная записка в [PDF](https://drive.google.com/file/d/1uZRtXfrvYbpTEe4QyUdLLvkP_ukHu4Zq/view?usp=drive_link)
+**Платформа для корпоративного обучения**
+- Бэкенд: Java & Spring Boot
+- Фронтенд: Next.js
+- 📄 [Пояснительная записка](https://drive.google.com/file/d/1uZRtXfrvYbpTEe4QyUdLLvkP_ukHu4Zq/view)
+- 🎥 [Презентация](https://drive.google.com/file/d/1B9aa12FMHAV_lGbYAmnqA5G5O-7KFvpc/view)
+- 📹 [Демонстрация работы](https://rutube.ru/video/9b6772469c10244cf12cd8aa1e278f10/)
+- 💻 [Исходный код](https://github.com/wybin4/flowledge)
+</details>
 
-Презентация в [PDF](https://drive.google.com/file/d/1B9aa12FMHAV_lGbYAmnqA5G5O-7KFvpc/view?usp=drive_link)
+<details>
+<summary>📚 Курсовые работы (бакалавриат)</summary>
 
-Видео с демонстрацией [работы](https://rutube.ru/video/9b6772469c10244cf12cd8aa1e278f10/)
+<details>
+<summary>4 курс, 1 семестр - Трекинг настроения</summary>
 
+- Мобильное приложение: Kotlin для Android
+- Бэкенд: Node.js
+- 📹 [Демонстрация работы](https://rutube.ru/video/5da3924470fe8be5a4bb1d65454874ef/)
+- 📱 [Мобильное приложение](https://github.com/wybin4/mood-tracker-mobile)
+- 🖥️ [Бэкенд](https://github.com/wybin4/mood-tracker-backend)
+</details>
 
-Исходный код:
-* [Платформа для корпоративного обучения, бэкенд на Java & Spring Boot, фронтенд на Next.js](https://github.com/wybin4/flowledge)
+<details>
+<summary>3 курс, 2 семестр - Мобильное приложение собственника жилья</summary>
 
-Курсовые работы, бакалавриат
----------------------------
-### 4 курс, 1 семестр
+- Kotlin для Android
+- 📄 [Пояснительная записка](https://drive.google.com/file/d/1MnQTcXBo8PKTTzNf4_BBji0rsf_h5Mse/view)
+- 📹 [Демонстрация работы](https://youtu.be/MxwgVbCVKBM)
+- 💻 [Исходный код](https://github.com/wybin4/myhome-mobile)
+</details>
 
-[Видео](https://rutube.ru/video/5da3924470fe8be5a4bb1d65454874ef/) с демонстрацией работы
+<details>
+<summary>3 курс, 1 семестр - Автоматизация УК и собственников</summary>
 
+- Фронтенд: NextJS
+- Бэкенд: NestJS
+- Развертывание: Ansible, Docker Swarm
+- 📄 [Пояснительная записка](https://drive.google.com/file/d/14asqR2Qp9Nc1yUXYMhvSUg1pUwGQY7tT/view)
+- 📹 [Демонстрация фронтенда](https://www.youtube.com/watch?v=PFo4jNCRiOU)
+- 📹 [Демонстрация развертывания](https://youtu.be/eO4ZHufRHHo)
+- 🖼️ [Фронтенд](https://github.com/wybin4/myhome-frontend)
+- 🖥️ [Бэкенд](https://github.com/wybin4/myhome)
+- 🐳 [Развертывание](https://github.com/wybin4/myhome-ansible)
+</details>
 
-Исходный код:
-* [Мобильное приложение для трекинга настроения, Kotlin для Android](https://github.com/wybin4/mood-tracker-mobile)
-* [Бэкенд приложения для трекинга настроения, Node.js](https://github.com/wybin4/mood-tracker-backend)
-### 3 курс, 2 семестр
-Пояснительная записка в [PDF](https://drive.google.com/file/d/1MnQTcXBo8PKTTzNf4_BBji0rsf_h5Mse/view?usp=sharing)
+<details>
+<summary>2 курс, 2 семестр - Сервис поиска работы для студентов</summary>
 
-[Видео](https://youtu.be/MxwgVbCVKBM?si=CIdszcrHXb_Q4EzX) с демонстрацией работы
+- Laravel
+- 📹 [Демонстрация работы](https://youtu.be/13wgWBVtEFA)
+- 💻 [Исходный код](https://github.com/wybin4/job-service)
+</details>
+</details>
 
+<details>
+<summary>📊 Избранные ВУЗовские работы</summary>
 
-Исходный код:
-* [Мобильное приложение собственника жилья, Kotlin для Android](https://github.com/wybin4/myhome-mobile)
-### 3 курс, 1 семестр
-Пояснительная записка в [PDF](https://drive.google.com/file/d/14asqR2Qp9Nc1yUXYMhvSUg1pUwGQY7tT/view?usp=sharing)
+- 🤖 [Анализ тревожных расстройств (MATLAB)](https://github.com/wybin4/fuzzy-logic)
+- 🗄️ [Хранилище данных продаж (PLpgSQL)](https://github.com/wybin4/sales-dwh)
+- ⚡ [Параллельное программирование (MPI)](https://github.com/wybin4/lab_mpi)
+- ⚡ [Параллельное программирование (OpenMP)](https://github.com/wybin4/lab_omp)
+- 📈 [Методы ранжирования (Python)](https://github.com/wybin4/systems-theory)
+- 🏫 [Автоматизация бизнес-школы (PHP)](https://github.com/wybin4/business-school)
+- 🚌 [Учет автобусных маршрутов (Java)](https://github.com/wybin4/bus-route-accounting-system)
+- 🧭 [Алгоритм A* (C++)](https://github.com/wybin4/a-star-pathfinding)
+- 🎯 [Q-обучение vs Глубокое Q-обучение (Python)](https://github.com/wybin4/ql-dql)
+- 🔧 [Работы 1 курс (C++)](https://github.com/wybin4/uni-cpp-tasks)
+</details>
 
-Видео с демонстрацией работы [фронтенда](https://www.youtube.com/watch?v=PFo4jNCRiOU)
+<details>
+<summary>🎓 Курсы и обучение</summary>
 
-Видео с демонстрацией [развертывания](https://youtu.be/eO4ZHufRHHo?si=SyrcYA6ZP6BqC1FG)
+<details>
+<summary>🛠️ Технологии</summary>
 
+- 🐳 Docker + Ansible + Swarm
+- 🏗️ [Микросервисы на NestJs](https://github.com/wybin4/purple)
+- ⚛️ [NextJs](https://github.com/wybin4/top-app)
+- 🟢 [NodeJs проекты](https://github.com/wybin4/weather-cli, https://github.com/wybin4/users-api)
+- ⚛️ [React + React Router](https://github.com/wybin4/cryptocurr)
+</details>
 
-Исходный код:
-* [Автоматизация взаимодействия собственников и управляющих компаний, фронтенд, NextJS](https://github.com/wybin4/myhome-frontend)
-* [Автоматизация взаимодействия собственников и управляющих компаний, развертывание, Ansible, Docker Swarm](https://github.com/wybin4/myhome-ansible)
-* [Автоматизация взаимодействия собственников и управляющих компаний, бэкенд, NestJS](https://github.com/wybin4/myhome)
-### 2 курс, 2 семестр
-[Видео](https://youtu.be/13wgWBVtEFA?si=_5R_E1Sk-88B4DxJ) с демонстрацией работы
+<details>
+<summary>📚 FreeCodeCamp</summary>
 
+- 🟨 [JavaScript Algorithms](https://github.com/wybin4/js-tasks)
+- 🎨 Front End Libraries:
+  - [Random quotes](https://github.com/wybin4/genshin-random-quotes)
+  - [Markdown previewer](https://github.com/wybin4/markdown-previewer)
+  - [Drum machine](https://github.com/wybin4/drum-kit)
+  - [JS calculator](https://codepen.io/wybin4/pen/wvmYQyQ)
+  - [Pomodoro timer](https://github.com/wybin4/pomodoro)
+- 📊 Data Visualization:
+  - [Bar chart](https://github.com/wybin4/covid-19-stats)
+  - [Scatterplot graphs](https://github.com/wybin4/home-price-scatterplot)
+  - [Heat map](https://github.com/wybin4/temperature-map)
+  - [Choropleth map](https://github.com/wybin4/quality-of-life-index)
+- 🗃️ [Relational Database](https://github.com/wybin4/db-projects)
+</details>
+</details>
 
-Исходный код:
-* [Сервис поиска работы и подбора персонала, ориентированный на студентов, Laravel](https://github.com/wybin4/job-service)
+<details>
+<summary>🎮 Игры на C++</summary>
 
-Избранные ВУЗовские работы, бакалавриат
---------------------------- 
-* [Анализ уровня тревожных расстройств у студентов выпускного курса по Мамдани, MATLAB](https://github.com/wybin4/fuzzy-logic)
-* [Хранилище данных для отдела продаж мебельной фабрики, PLpgSQL](https://github.com/wybin4/sales-dwh)
-* [Параллельное программирование, MPI](https://github.com/wybin4/lab_mpi)
-* [Параллельное программирование, OpenMP](https://github.com/wybin4/lab_omp)
-* [Методы ранжирования экспертных оценок и автоматической классификации, Python](https://github.com/wybin4/systems-theory)
-* [Автоматизация бизнес-школы, PHP](https://github.com/wybin4/business-school)
-* [Система учёта автобусных маршрутов, Java](https://github.com/wybin4/bus-route-accounting-system)
-* [Алгоритм A*, C++](https://github.com/wybin4/a-star-pathfinding)
-* [Сравнение Q-обучения и глубокого Q-обучения, Python](https://github.com/wybin4/ql-dql)
-* [Избранные работы, 1 курс 1 семестр, C++](https://github.com/wybin4/uni-cpp-tasks)
-
-Подготовка к практике
----------------------------
-### React + React Router
-* [cryptocurr](https://github.com/wybin4/cryptocurr)
-
-Курсы
----------------------------
-### Docker + Ansible - с нуля, деплой и управление Swarm
-### Микросервисы на NestJs
-* [purple](https://github.com/wybin4/purple)
-### NextJs
-* [top-app](https://github.com/wybin4/top-app)
-### NodeJs
-* [weather-cli](https://github.com/wybin4/weather-cli)
-* [auth-users-api](https://github.com/wybin4/users-api)
-### Курсы freecodecamp
-#### 1. [Javascript Algorithms and Data Structures](https://github.com/wybin4/js-tasks)
-#### 2. Front End Development Libraries
-  * [Random quote machine](https://github.com/wybin4/genshin-random-quotes)
-  * [Markdown previewer](https://github.com/wybin4/markdown-previewer)
-  * [Drum machine](https://github.com/wybin4/drum-kit)
-  * [JS calculator](https://codepen.io/wybin4/pen/wvmYQyQ)
-  * [25 + 5 clock](https://github.com/wybin4/pomodoro)
-#### 3. Data Visualization
-* [Bar chart](https://github.com/wybin4/covid-19-stats)
-* [Scatterplot graph 1](https://github.com/wybin4/home-price-scatterplot)
-* [Scatterplot graph 2](https://github.com/wybin4/covid-19-stats)
-* [Heat map](https://github.com/wybin4/temperature-map)
-* [Choropleth map](https://github.com/wybin4/quality-of-life-index)
-#### 4. [Relational Database](https://github.com/wybin4/db-projects)
-
-Игры, С++
----------------------------
-* [Три в ряд](https://github.com/wybin4/match3)
-* [Платформер](https://github.com/wybin4/bunny)
+- 🧩 [Три в ряд](https://github.com/wybin4/match3)
+- 🐰 [Платформер](https://github.com/wybin4/bunny)
+</details>
