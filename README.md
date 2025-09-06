@@ -11,9 +11,11 @@
 ### 4 курс, 2 семестр
 
 Пояснительная записка в [PDF](https://drive.google.com/file/d/1uZRtXfrvYbpTEe4QyUdLLvkP_ukHu4Zq/view?usp=drive_link)
+
 Презентация в [PDF](https://drive.google.com/file/d/1B9aa12FMHAV_lGbYAmnqA5G5O-7KFvpc/view?usp=drive_link)
 
 Видео с демонстрацией [работы](https://rutube.ru/video/9b6772469c10244cf12cd8aa1e278f10/)
+
 
 Исходный код:
 * [Платформа для корпоративного обучения, бэкенд на Java & Spring Boot, фронтенд на Next.js](https://github.com/wybin4/flowledge)
