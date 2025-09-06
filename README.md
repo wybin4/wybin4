@@ -152,8 +152,7 @@
 
 <details>
 <summary>🎮 Игры на C++</summary>
-
-### Игровые проекты на C++
+<br/>
 
 -   🧩 [Три в ряд](https://github.com/wybin4/match3)
 -   🐰 [Платформер](https://github.com/wybin4/bunny)
