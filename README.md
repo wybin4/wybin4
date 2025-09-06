@@ -118,9 +118,11 @@
 -   🔧 [Работы 1 курс (C++)](https://github.com/wybin4/uni-cpp-tasks)
 
 </details>
+<details>
 
 <summary>🎓 Курсы и обучение</summary>
 <details>
+
 <br/>
 <summary>Освоенные технологии и фреймворки</summary>
     
