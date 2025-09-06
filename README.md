@@ -118,14 +118,12 @@
 -   🔧 [Работы 1 курс (C++)](https://github.com/wybin4/uni-cpp-tasks)
 
 </details>
-<details>
 
+<details>
 <summary>🎓 Курсы и обучение</summary>
 <details>
-
 <br/>
 <summary>Освоенные технологии и фреймворки</summary>
-    
 <br/>
   
 -   🐳 Docker + Ansible + Swarm
@@ -134,11 +132,11 @@
 -   🟢 [NodeJs проекты](https://github.com/wybin4/weather-cli, https://github.com/wybin4/users-api)
 -   ⚛️ [React + React Router](https://github.com/wybin4/cryptocurr)
 
+</details>
+
 <details>
 <br/>
-<details>
 <summary>Курсы FreeCodeCamp</summary>
-    
 <br/>
   
 -   🟨 [JavaScript Algorithms](https://github.com/wybin4/js-tasks)
