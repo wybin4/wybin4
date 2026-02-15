@@ -4,7 +4,26 @@
 -   ✉️ Почта: [eckyl@bk.ru](mailto:eckyl@bk.ru)
 -   😀 Телеграм: [@aiwokow](https://telegram.me/aiwokow)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wybin4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+<summary>📚 Курсовые работы (магистратура)</summary>
+<br/>
+<details>
+<summary>1 курс, 1 семестр - Рефакторинг дипломной работы</summary>
+    
+<br/>
+    
+**Проект:** Платформа для корпоративного обучения
+
+**Состав проекта:**
+-   Бэкенд: Go
+
+**Материалы:**
+-   📄 [Пояснительная записка](https://drive.google.com/file/d/1oXe6tSgYMShKMyq62yMajTDtmhmfBxAY/view?usp=sharing)
+-   🖥️ [Бэкенд](https://github.com/wybin4/flowledge/tree/master/go)
+
+</details>
+
+</details>
 
 <details>
 <summary>🎓 Дипломная работа (бакалавриат, 4 курс)</summary>
