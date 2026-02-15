@@ -26,6 +26,10 @@
 </details>
 
 <details>
+<summary>🏛️ Бакалавриат</summary>
+<br/>
+
+<details>
 <summary>🎓 Дипломная работа (бакалавриат, 4 курс)</summary>
 
 ### Платформа для корпоративного обучения
@@ -80,8 +84,8 @@
 </details>
 
 <details>
-<br/>
 <summary>3 курс, 1 семестр - Автоматизация взаимодействия УК и собственников</summary>
+<br/>
     
 **Проект:** Система автоматизации взаимодействия собственников и УК
 
@@ -101,8 +105,8 @@
 </details>
 
 <details>
-<br/>
 <summary>2 курс, 2 семестр - Сервис поиска работы для студентов</summary>
+<br/>
     
 **Проект:** Сервис поиска работы и подбора персонала
 
@@ -113,7 +117,6 @@
 -   💻 [Исходный код](https://github.com/wybin4/job-service)
 
 </details>
-
 </details>
 
 <details>
@@ -132,48 +135,7 @@
 -   🔧 [Работы 1 курс (C++)](https://github.com/wybin4/uni-cpp-tasks)
 
 </details>
-
-<details>
-<summary>🎓 Курсы и обучение</summary>
-<br/>
-<details>
-<summary>Освоенные технологии и фреймворки</summary><br/>
-
--   🐳 Docker + Ansible + Swarm
--   🏗️ [Микросервисы на NestJs](https://github.com/wybin4/purple)
--   ⚛️ [NextJs](https://github.com/wybin4/top-app)
--   🟢 [NodeJs проекты](https://github.com/wybin4/weather-cli, https://github.com/wybin4/users-api)
--   ⚛️ [React + React Router](https://github.com/wybin4/cryptocurr)
-
 </details>
 
-<details>
-<br/>
-<summary>Курсы FreeCodeCamp</summary>
-  
--   🟨 [JavaScript Algorithms](https://github.com/wybin4/js-tasks)
--   🎨 **Front End Libraries:**
-    -   [Random quotes](https://github.com/wybin4/genshin-random-quotes)
-    -   [Markdown previewer](https://github.com/wybin4/markdown-previewer)
-    -   [Drum machine](https://github.com/wybin4/drum-kit)
-    -   [JS calculator](https://codepen.io/wybin4/pen/wvmYQyQ)
-    -   [Pomodoro timer](https://github.com/wybin4/pomodoro)
--   📊 **Data Visualization:**
-    -   [Bar chart](https://github.com/wybin4/covid-19-stats)
-    -   [Scatterplot graphs](https://github.com/wybin4/home-price-scatterplot)
-    -   [Heat map](https://github.com/wybin4/temperature-map)
-    -   [Choropleth map](https://github.com/wybin4/quality-of-life-index)
--   🗃️ [Relational Database](https://github.com/wybin4/db-projects)
-
-</details>
-
-</details>
-
-<details>
-<summary>🎮 Игры на C++</summary>
-<br/>
-
--   🧩 [Три в ряд](https://github.com/wybin4/match3)
--   🐰 [Платформер](https://github.com/wybin4/bunny)
 
 </details>
