@@ -20,6 +20,7 @@
 **Материалы:**
 -   📄 [Пояснительная записка](https://drive.google.com/file/d/1oXe6tSgYMShKMyq62yMajTDtmhmfBxAY/view?usp=sharing)
 -   🖥️ [Бэкенд](https://github.com/wybin4/flowledge/tree/master/go)
+-   💻 [Основной репозиторий](https://github.com/wybin4/flowledge)
 
 </details>
 
