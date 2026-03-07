@@ -6,7 +6,7 @@
 |--------|------|-------|
 | [**Flowledge**](https://github.com/wybin4/flowledge) | Go, Next.js, Python, MongoDB, Kafka, K8s, Prometheus, Grafana | LMS-платформа с автоматической транскрибацией видео, генерацией конспектов, детекцией аномалий в реальном времени и полным циклом развертывания |
 | [**MyHome Backend**](https://github.com/wybin4/myhome-backend) | NestJS, RabbitMQ, MySQL, MongoDB | Платформа автоматизации ЖКХ: 10 микросервисов, биллинг, уведомления, event-driven архитектура |
-| [**MyHome Infra**](https://github.com/wybin4/myhome-ansible) | Ansible, Docker Swarm, Vagrant | IaC для кластера из 5 нод: приватный registry, декларативный деплой, vault для секретов |
+| [**MyHome Infra**](https://github.com/wybin4/myhome-infra) | Ansible, Docker Swarm, Vagrant | IaC для кластера из 5 нод: приватный registry, декларативный деплой, vault для секретов |
 | [**MyHome Frontend**](https://github.com/wybin4/myhome-frontend) | React, Next.js, TypeScript, Tailwind | Продуктовый интерфейс для сферы ЖКХ: кастомный дизайн в Figma, 3 ролевые модели |
 
 ---
